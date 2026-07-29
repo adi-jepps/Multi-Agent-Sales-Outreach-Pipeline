@@ -1,0 +1,962 @@
+Sustainable Lighting Upgrade
+Comprehensive Case Study - Multi-national energy provider
+Report Date: Friday 19 June 2026
+A major project demonstrating the strategic value of lighting remanufacturing 
+over traditional replacement approaches in large-scale commercial facilities. 
+This case study explores how a large multi-national energy provider's Aberdeen 
+headquarters transformed 2,116 fluorescent panel fittings into high-
+performance, energy-efficient LED assets whilst achieving substantial carbon 
+reduction and financial returns.
+The project saw the lighting upgraded to the latest technology, featuring an 
+automated emergency lighting system that self-tests and generates a log-book, 
+while the project was delivered in accordance with BS8887-221 requirements.
+
+Introduction & Project Stakeholders
+This case study explores the process of delivering 44% energy reduction on the existing panel fittings, a five-year payback period, and 
+£207,423 net benefit over seven years, while improving workplace lighting quality. With respect to carbon, the project delivered 149 
+tCO₂e estimated avoided embodied carbon versus new-equivalent procurement, and 300 tCO₂e estimated avoided operational carbon 
+versus the previous fluorescent installation over seven years.
+Typical lighting remanufacturing projects deliver energy reductions of between 40 and 70%; at 44%, this project sits within that 
+established range. The differentiation here isn't the percentage — it's what came with it: brighter, better-controlled light, automated 
+emergency lighting, supporting compliance with relevant regulations, achieved without the embodied carbon or disposal cost of full 
+replacement.
+Client
+Confidential multi-national energy provider - Aberdeen 
+headquarters facility requiring comprehensive lighting 
+modernisation across 2,116 panel fittings.
+Property Management
+JLL (Jones Lang LaSalle) - Leading global commercial real 
+estate services firm overseeing facility operations and 
+sustainability initiatives.
+Implementation Partners
+Space Solutions - Specialist workspace consultancy providing 
+strategic design and implementation expertise for corporate 
+environments.
+Lighting Technology
+EGG Lighting - Innovative remanufacturing specialists 
+delivering sustainable lighting solutions with advanced DALI-2 
+technology integration.
+Strategic Project Objectives
+This study demonstrates the measurable benefits of lighting remanufacturing over traditional new equipment procurement in certain 
+large-scale corporate environments. The Aberdeen project serves as a benchmark for facilities managers evaluating sustainable upgrade 
+strategies.
+Primary Deliverables:
+Marked operational cost reduction through energy efficiency gains
+Notable carbon footprint reduction via embodied and operational carbon savings
+Future-proof lighting infrastructure with advanced control capabilities
+Real-world performance validation through comprehensive monitoring and assessment
+The project showcases how strategic remanufacturing approaches can deliver improved financial returns whilst advancing corporate 
+sustainability goals, providing a replicable model for similar facilities across the energy sector.
+
+Project Overview: Facility Lighting Upgrade
+This section details the specific parameters of the project, outlining the comprehensive scope of the sustainable lighting remanufacturing 
+project and its planned implementation timeline.
+Facility Specifications & Operational Context
+This project took place at a critical operational hub for the multinational energy provider's regional activities This multi-storey complex 
+spans approximately 150,000 square feet and operates with varied requirements across its diverse areas.
+24/7 Operations
+Specific control rooms and essential operational zones require 
+continuous, reliable lighting
+Diverse Work Environments
+Open-plan offices, private meeting rooms, laboratories, and 
+collaborative spaces each necessitate tailored lighting 
+solutions
+Health & Safety Compliance
+Adherence to stringent industry standards for illumination 
+levels and visual ergonomics
+Energy Efficiency Imperative
+Strategic focus on reducing energy consumption and 
+associated carbon emissions aligned with the client's corporate 
+sustainability goals
+Data-Driven Operational Analysis
+EGG Lighting conducted a detailed four-month analysis of real-world lighting usage across the facility. This monitoring allowed us to 
+establish accurate daily operating hours, identify peak activity periods, and confirm significantly reduced occupancy during weekends. 
+These insights ensured that the proposed lighting design, control strategy, and energy-saving projections were based on verified 
+operational behaviour rather than theoretical modelling, reinforcing the robustness and professionalism of our assessment and enabling 
+more accurate ROI and carbon calculations.
+
+Detailed Project Scope & Technology Integration
+The project specifically targets the upgrade of 2,116 existing 600x600mm recessed panel fluorescent light fittings throughout the 
+facility. Rather than traditional replacement, EGG Lighting employed a sustainable remanufacturing approach, upgrading the original 
+luminaires with cutting-edge components.
+Fitting Distribution
+70% in open-plan office areas
+20% in meeting rooms and private offices
+10% in corridors, lobbies, and amenity spaces
+Phased workflow ensured client HQ was never interrupted.
+Key Implementation Features
+Advanced DALI-2 integration enabling granular control and 
+intelligent sensors
+Minimal disruption through carefully phased installation
+Component lifecycle extension reducing waste and embodied 
+carbon
+Future-Proof Infrastructure: The upgrade provides a scalable and flexible lighting infrastructure capable of adapting to future 
+technological advancements and workspace reconfigurations.
+Implementation Timeline & Key Milestones
+1
+Project Initiation
+Initial site survey and technical assessment
+2
+Sample Approval
+Prototype testing and stakeholder validation
+3
+Phased Production
+52-week manufacturing and installation programme
+4
+Commissioning
+System integration and performance verification
+5
+Completion
+Final handover and post-installation monitoring
+
+Same Housing. Entirely New Technology.
+Before: Original Thorn IndiQuattro 
+(Fluorescent)
+The original Thorn IndiQuattro fluorescent fitting — 2,116 of 
+these were collected, stripped, and remanufactured, avoiding 
+disposal and preserving the value of the original housings.
+After: Remanufactured by EGG Lighting 
+(LED)
+The same housing, reborn. New LED modules, Tridonic DALI-2 
+driver, and precision glare-control optics — installed across all 
+2,116 panels at the Aberdeen facility.
+The housing didn't change. Everything inside it did.
+
+Project Implementation & Delivery Management
+With sample approval complete, we moved into scale and production. Our phased approach ensures quality control whilst minimising 
+operational disruption across the facility. (50 fittings per week chosen to complement the working schedule at facility, requested by the 
+host - there is scope to scale production at a higher level.)
+01
+Weeks 1-12
+Sample approval, final design validation, and production setup
+02
+Weeks 13-26
+Initial production run: 650 fittings manufactured and tested
+03
+Weeks 27-40
+Mid-phase production: 850 fittings with quality control checkpoints
+04
+Weeks 41-52
+Final phase production: 616 fittings and installation completion
+50
+Fittings per Week
+Consistent production run rate
+52
+Week Project Length
+Full installation timeline
+2,116
+Total Fittings
+Complete facility coverage
+Sustainable Packaging & Logistics
+Our commitment to environmental responsibility extends beyond the product itself, influencing every stage from manufacturing delivery 
+through to installation.
+Eco-Friendly Materials
+Implementation of a reusable, 
+returnable packaging system. 
+Packaging was collected after 
+delivery for reuse on subsequent 
+deliveries, creating a circular system 
+that eliminated single-use waste and 
+reduced overall material 
+requirements.
+Optimised Transport
+Implementation of consolidated 
+delivery schedules to minimise the 
+number of transport movements 
+required, directly reducing fuel 
+consumption and associated 
+transport emissions.
+Carbon-Conscious Chain
+Selecting transport methods and 
+partners prioritising carbon efficiency 
+to ensure a low-impact logistics chain 
+for all components and finished 
+products.
+Live Site Project Management
+Managing a project of this scale within a fully operational 24/7 Aberdeen facility required stringent coordination, minimal disruption 
+strategies, and adherence to highest safety protocols.
+Phased Installation & Continuity
+Adopted a highly controlled phased installation approach 
+aligned with operational schedules, ensuring business 
+continuity and maintaining full service functionality 
+throughout the 52-week timeline.
+Operational Coordination
+Dedicated on-site project management team for daily 
+coordination with the organisation's facility management and 
+operational teams, minimising interference with critical 
+energy sector activities.
+Safety Protocols
+Strict adherence to live site safety protocols relevant to an 
+active energy sector environment, including necessary 
+certifications and continuous risk assessment to ensure zero 
+incidents.
+User Communication Strategy
+Established clear and proactive communication channels with 
+facility users and stakeholders, providing timely updates on 
+installation phases and potential minor access changes to 
+manage expectations effectively.
+Smart Controls Integration
+As part of this project, the lighting system was upgraded to a new wireless Bluetooth automated emergency management (EM) system 
+with proactive fault finding. Our smart controls solution leverages existing infrastructure—including cables and LCM systems—and 
+integrates DALI Bluetooth bridges to enable sophisticated wireless automation without costly rewiring.
+DALI Bluetooth bridges enabling wireless system connectivity
+DALI-2 compatibility for seamless integration with building management systems
+Automated fault diagnosis and reporting down to individual component level
+Enhanced system diagnostics for proactive maintenance
+Real-time monitoring of power consumption, temperature, and luminaire status
+Predictive maintenance alerts based on operational hours and performance data
+Automated emergency lighting functional and annual testing reduces maintenance labour and supports compliance with emergency 
+lighting regulations.
+Daylight harvesting and occupancy sensing for additional energy savings
+Quality Assurance: Each production batch undergoes rigorous testing against BS8887-221 and BS EN 60598 standards. Full 
+traceability documentation maintained throughout the manufacturing and installation process.
+
+Regulatory Compliance & Industry Standards
+Adherence to stringent regulatory and industry standards is paramount for validating the performance, safety, and environmental claims 
+of remanufactured lighting products. Our approach is designed to meet applicable regulatory and industry requirements.
+BS8887-221: Remanufacturing Compliance
+This standard governs the remanufacturing of luminaires, 
+mandating 'as new' performance, safety, and warranty. The 
+project demonstrates alignment with BS8887-221 
+requirements, demonstrating that remanufactured products 
+meet or exceed original specifications, providing critical 
+assurance for long-term reliability and operational continuity.
+BS EN 60598: Luminaire Safety
+BS EN 60598 outlines comprehensive electrical, mechanical, 
+and thermal safety requirements for luminaires. Our 
+remanufactured products undergo rigorous testing to this 
+standard, ensuring that they consistently deliver safe and 
+compliant operation within their application environments, 
+mitigating project risks.
+TM66: Circularity Assessment
+TM66 provides a robust framework for evaluating the 
+circularity of lighting products across their lifecycle. The 
+project's remanufactured solutions demonstrate strong 
+circularity performance under the TM66 framework, 
+underscoring their environmental benefits and aligning with 
+modern sustainable design principles for green buildings.
+EPDs & TM65.2: Green Building Credits
+TM65.2 calculations and EPDs can support project teams with 
+embodied-carbon reporting and may contribute evidence for 
+relevant green-building assessment credits, subject to the 
+scheme, project scope, and assessor review.
+Comprehensive Standards Framework
+By rigorously adhering to these established standards, the project not only validates the technical viability and financial benefits of 
+remanufactured lighting but also provides clear evidence of a responsible, future-proof solution for discerning A&E professionals.
+Compliance with these rigorous standards demonstrates that remanufactured lighting solutions can meet the highest industry 
+benchmarks for performance, safety, and environmental responsibility, providing specifiers with confidence in sustainable procurement 
+decisions.
+Performance Validation
+Rigorous testing protocols ensure 'as 
+new' performance standards
+Safety Assurance
+Comprehensive electrical and 
+mechanical safety compliance
+Circularity Metrics
+Quantified environmental benefits 
+through lifecycle assessment
+Green Building Credits
+Supports BREEAM and LEED evidence 
+requirements
+
+Remanufactured LED vs. New LED
+Our remanufactured Thorn IndiQuattro solution delivers measurably superior performance across key metrics when compared with a 
+representative current market alternative. 
+The data demonstrates clear advantages in efficiency, lifetime, and long-term value. Beyond the financial savings, the indirect backlight 
+technology and 45° glare control shade deliver a noticeably cleaner, softer light quality than a standard backlit panel — improving the 
+visual environment as well as the energy bill.
+Comparison Basis
+The energy and performance improvements reported throughout this case study are based on a direct comparison between the original 
+installed Thorn IndiQuattro luminaires and the remanufactured Thorn IndiQuattro luminaires supplied as part of this project.
+For reference, the "new alternative" shown on the next page represents the closest currently available market equivalent identified for 
+benchmarking purposes. It is not the direct successor to, or a like-for-like replacement of, the original Thorn IndiQuattro luminaire. 
+Comparisons involving the new alternative should therefore be considered indicative of current market offerings rather than a direct like-
+for-like comparison.
+Remanufacturing delivers strong performance and value — even under conservative benchmarking assumptions.
+The Aberdeen project upgraded 2,116 fittings to a higher specification than the originals — adding Bluetooth wireless control and 
+automated emergency lighting compliance reporting — and was then compared not against the true like-for-like replacement (a Thorn 
+IndiQuattro) but against a cheaper, non-architectural alternative. 
+Despite those two factors working against the remanufacture case, the project still delivered 44% energy reduction, £207,423 in verified 
+savings over seven years, and notable operational and embodied tCO₂e reductions. In a genuine like-for-like comparison, the saving would 
+have been greater still.
+
+Performance Comparison: Remanufactured vs. New
+ Indicative benchmark comparison against a current market alternative. The benchmark is intentionally conservative: the remanufactured 
+solution is compared with a lower-cost current market panel rather than a true architectural like-for-like replacement
+Specification
+Remanufactured
+New Alternative
+Product
+Thorn IndiQuattro 600x600 lay-in 
+panel (direct+indirect, DALI-2)
+Ansell Pace Backlit CCT Multi Wattage 
+Panel OCTO
+Expected Lifetime
+             L80(B10) 81,000h           
+L70(B50) 72,000h
+Warranty
+             5 Years           
+5 Years
+Annual Running Cost
+             £51,354*           
+£54,919
+Unit Cost (Standard)
+             £128.33           
+£130.21
+Unit Cost (Emergency)
+             £177.48           
+£183.32
+Nominal (Catalogue) Power
+             26.4W*         
+20–30W (switch-selectable)
+Luminous Efficacy
+             125 lm/W (consistent across 
+operating range)           
+Up to 130 lm/W (at 4000K, 20W 
+minimum setting only)
+Upgradeability
+             LED & driver replaceable by 
+professional           
+No information available
+Control Protocol
+             DALI-2 (device querying, 
+diagnostics and monitoring as 
+standard)           
+Switch Dim / 1–10V / DALI (requires 
+ADDIM/30/MC accessory driver)
+             Dimming Driver           
+Tridonic — included as standard
+Accessory — additional cost 
+(ADDIM/30/MC)
+             Component Replaceability           
+LED module replaceable by a 
+professional
+Not stated
+35%
+Longer lifetime
+L80(B10) 81,000h vs L70(B50) 72,000h — a 
+more demanding standard at a greater 
+number of hours
+2.5%
+Higher Efficiency
+125 lm/W compared to 122.5 lm/W An 
+efficiency gain over the original fluorescent 
+fitting
+6.5%
+Lower Running Costs
+Annual operational cost savings of £3,565
+         Key Advantage: The remanufactured solution includes a Tridonic DALI-2 driver as standard — delivering advanced 
+diagnostics, device-level monitoring, and dimming capability without additional cost or accessories. The Ansell Pace requires a 
+separately purchased driver accessory to achieve equivalent dimming functionality, and offers standard DALI only. Additionally, 
+the remanufactured fitting's LED module is replaceable by a professional, protecting the long-term investment without full 
+system replacement — a feature not referenced in the Pace specification.       
+Beyond technical specs, the upgrade delivered dramatic improvements in workplace lighting quality—as the following lux readings 
+demonstrate.
+* Note: The £51,354 figure is based on the catalogue-rated connected load used in initial projections. The updated cost of £57,844 reflects 
+the actual installed load (258,230 kWh/year) at £0.224/kWh. Catalogue rating shown; installed project specification utilised higher-
+output LED modules. See ROI: Initial Projections & Actual Results page for actual connected load.
+
+Strategic Advantages of Remanufacturing
+Our remanufactured fittings outperformed not only the original fluorescent units they replaced, but the nearest new market equivalent. 
+This section quantifies those measurable advantages across three critical dimensions: financial rewards, environmental impact reduction, 
+and technical performance — and demonstrates why remanufacturing consistently outperforms traditional replacement strategies.
+5
+Years to ROI
+Exceptional return on investment through 
+reduced capital expenditure and enhanced 
+operational efficiency
+125
+Lumens per Watt
+Best-in-class efficiency exceeding 
+comparable new equipment specifications
+149
+tCO₂e Avoided Embodied Carbon 
+(vs new equivalent)
+Total embodied carbon avoided through 
+strategic component reuse
+Financial Rewards
+The remanufacturing approach delivers a robust return on investment through reduced capital expenditure and enhanced operational 
+efficiency. Unlike traditional replacement strategies, remanufactured solutions offer extended lifespan with significantly lower 
+maintenance costs and future upgrade flexibility.
+Key financial benefits include elimination of specification lock-in constraints commonly associated with modern LED product lines, 
+enabling cost-effective component upgrades and technology evolution without complete system replacement. This strategic flexibility 
+protects long-term infrastructure investment whilst maintaining cutting-edge performance capabilities.
+Remanufacturing can deliver substantial embodied-carbon and material-retention benefits compared with new procurement, while still 
+achieving operational performance equivalent to or better than current LED alternatives where the design and components support it.
+Environmental Impact 
+Reduction
+Carbon Savings Methodology: Utilising CIBSE TM65 standards 
+for embodied carbon assessment, the project achieves substantial 
+environmental benefits through material conservation and 
+operational efficiency improvements.
+Embodied Carbon Reduction: Significant material waste 
+elimination through strategic component reuse - 149 tCO₂e
+Operational Carbon Savings: 7-year projected reduction 
+through fluorescent-to-LED conversion - 300 tCO₂e
+Waste Minimisation: Reduced manufacturing demand and 
+disposal requirements
+Performance Specifications & Modern Technology
+The remanufactured fixtures exceed performance specifications of comparable new equipment through advanced component integration 
+and precision engineering. Modern optics technology delivers enhanced energy efficiency and glare reduction through contemporary 
+optical design, providing superior workplace illumination quality with refined aesthetic appeal.
+Advanced DALI-2 Technology
+Enhanced compatibility eliminating 
+vendor lock-in, with sophisticated 
+control and real-time monitoring 
+capabilities
+Intelligent Automation
+Advanced sensor, switch, and input 
+device support enabling comprehensive 
+lighting automation and energy 
+optimisation
+Comprehensive Monitoring
+Continuous data collection on power 
+consumption, temperature, and 
+luminaire operational status with 
+predictive maintenance alerts
+Real-Time Feedback: Detailed operational parameter reporting includes lamp failure detection, dimming levels, and operational 
+hour tracking, enabling proactive maintenance strategies and maximising system uptime.
+
+Remanufacturing Process: EGG Lighting's Sustainable 
+Methodology
+EGG Lighting's remanufacturing process is a meticulously engineered, multi-stage methodology designed to transform existing luminaires 
+into high-performance, energy-efficient, and intelligent lighting systems. This approach not only significantly reduces environmental 
+impact by extending product lifecycles but also integrates cutting-edge technology, ensuring superior performance and future-proof 
+adaptability for clients.
+01
+Receiving & Initial Audit
+Upon arrival at EGG Lighting's facility, each luminaire undergoes a 
+comprehensive initial audit. This involves visual inspection, 
+documentation of its original condition, verification of serial 
+numbers, and a basic functional test to assess the integrity of the 
+existing housing. This step is crucial for identifying any structural 
+damage or anomalies before the remanufacturing process begins.
+02
+Disassembly & Housing Preparation
+The original luminaire is carefully disassembled, with all legacy 
+components such as fluorescent tubes, ballasts, and outdated 
+wiring removed. The luminaire housing is then thoroughly cleaned, 
+degreased, and inspected for any imperfections. Necessary repairs 
+or reinforcements are performed to ensure the housing is 
+structurally sound and aesthetically suitable for re-use, adhering to 
+original product specifications.
+03
+Advanced Component Integration
+This is the core of the remanufacturing process. New, high-
+efficiency LED modules are precisely fitted into the prepared 
+housing. Simultaneously, state-of-the-art DALI-2 compliant drivers 
+are integrated, along with intelligent occupancy and daylight 
+harvesting sensors. This step requires precision engineering to 
+ensure optimal thermal management, electrical safety, and 
+seamless technological compatibility with the new components.
+04
+Reassembly & Wiring
+Once new components are integrated, the luminaire is carefully 
+reassembled. All internal wiring is meticulously connected and 
+secured, adhering to the latest electrical safety standards and 
+DALI-2 protocols. Special attention is paid to ensuring robust 
+connections that minimise future maintenance needs and maximise 
+operational longevity.
+05
+Rigorous Quality Assurance & Testing
+Every remanufactured luminaire undergoes a stringent multi-point 
+quality control and testing regime. This includes photometric 
+testing to verify light output (125 lm/w efficiency), colour rendering 
+index (CRI), and distribution patterns. Electrical safety tests (e.g., 
+insulation resistance, earth continuity) and functional testing of 
+DALI-2 controls and sensors are performed to guarantee 
+compliance with all relevant industry standards and client 
+specifications.
+06
+Packaging & Deployment
+After passing all quality checks, the remanufactured luminaires are 
+securely packaged for transport. Each unit is clearly labelled with its 
+new specifications and ready for phased deployment back into the 
+client's facility. EGG Lighting also provides detailed installation 
+guides and support to ensure a smooth transition during the re-
+installation and commissioning phase.
+
+Technical Specifications & Innovation
+The remanufactured lighting solution incorporates cutting-edge technology components within existing fixture housings, delivering 
+performance that exceeds new equipment specifications whilst maintaining cost-effectiveness and environmental responsibility.
+LED Module Excellence
+UK Manufacturing Standards - Industry-leading efficiency with 
+professional-grade replaceability, ensuring long-term maintenance 
+flexibility and performance optimisation.
+LED Driver Technology
+TRIDONIC Driver Integration - Industry-leading reliability with 
+DALI-2 protocol support and DALI Bluetooth bridges ensuring 
+seamless interoperability and comprehensive future-proofing 
+capabilities for evolving control system requirements.
+Indirect Backlight Technology
+Advanced optical design creates soft ambient illumination 
+completely free from glare, enhancing workplace comfort and 
+productivity.
+Precision Optics
+High-Efficiency Light Control - Advanced optical systems offering 
+15 different beam configurations with both diffuse and clear 
+options for optimal illumination customisation.
+Glare Control Technology
+45° View Angle Cutoff - Sophisticated light management eliminating visual discomfort with 20+ 
+colour and style options for seamless aesthetic integration.
+Design & Sustainability Features
+Contemporary Aesthetics
+Clean, modern appearance that 
+enhances workspace visual appeal 
+whilst maintaining professional 
+corporate environment standards. 
+The refined design language 
+complements existing architectural 
+elements without requiring 
+comprehensive interior 
+modifications.
+Premium Component 
+Integration
+Quality branded components 
+ensure reliable long-term 
+performance with industry-
+standard warranties and support. 
+Strategic component selection 
+prioritises longevity and 
+maintainability over short-term 
+cost optimisation.
+Modular System 
+Architecture
+Flexible design framework enables 
+efficient maintenance procedures 
+and future technology upgrades 
+without complete system 
+replacement. This approach reduces 
+lifecycle costs whilst maintaining 
+cutting-edge performance 
+capabilities.
+Luminaires - Ready For Tomorrow
+Advanced control protocols and expandable system architecture ensure compatibility with emerging lighting control technologies 
+and building automation systems. Investment protection through forward-thinking design philosophy.
+Implementation Impact: This project demonstrates how strategic remanufacturing approaches can deliver superior technical 
+performance whilst achieving substantial cost savings and environmental benefits. This case study provides a proven methodology for 
+similar large-scale facility upgrades across the corporate sector.
+
+Technical Credibility & Component Quality
+This remanufactured lighting solution has been engineered to deliver performance equivalent to, or exceeding, many newly manufactured 
+luminaires through the integration of premium branded components, rigorous testing procedures, and compliance with recognised 
+industry standards.
+Key technical credentials include:
+High-efficiency LED modules delivering up to 125 lm/W efficacy.
+TRIDONIC DALI-2 drivers supplied as standard, enabling advanced diagnostics, monitoring, dimming, and long-term interoperability.
+L80(B10) 81,000-hour lifetime performance, providing extended service life and reduced maintenance requirements.
+Professionally replaceable LED modules and drivers, supporting circular economy principles and long-term asset value.
+Advanced optical design featuring indirect backlight technology and glare-control optics to improve visual comfort and workplace 
+wellbeing.
+Comprehensive photometric, electrical safety, and functional testing on every remanufactured luminaire.
+Compliance with BS8887-221 remanufacturing requirements and BS EN 60598 luminaire safety standards.
+Unlike many modern LED luminaires that require complete replacement at end of life, the modular architecture of the remanufactured 
+solution enables future upgrades, component replacement, and continued performance optimisation without discarding the entire fitting.
+The result is a lighting asset that combines the sustainability benefits of remanufacturing with the technical performance, reliability, and 
+maintainability expected from a premium commercial lighting system.
+Quality Standard Reference: Workplace lighting quality was reviewed with reference to relevant workplace lighting guidance, 
+including HSE HSG38, and should be read alongside applicable lighting design standards and project-specific task requirements
+
+Digital Product Passports: Complete Lifecycle 
+Traceability
+EGG Lighting's commitment to sustainability and transparency is exemplified through the implementation of Digital Product Passports 
+(DPP). This innovative system provides unparalleled visibility into the entire lifecycle of every remanufactured luminaire, ensuring full 
+traceability and accountability from production to end-of-life. By integrating a unique digital identity with each product, we empower 
+clients with comprehensive data and insights, fostering a truly circular economy approach.
+This methodical process embodies core circular economy principles, transforming what would typically be waste into renewed assets. By 
+salvaging existing resources and integrating advanced technology, EGG Lighting delivers a sustainable solution that extends product 
+utility, reduces material consumption, and minimises carbon footprints, aligning perfectly with modern corporate sustainability objectives.
+Unique QR Code & Full 
+Lifecycle Tracking
+Every remanufactured light fitting 
+receives a unique QR code label, 
+providing full traceability through the 
+dedicated DPP platform, from 
+manufacturing through end-of-life.
+Real-time Data Access
+The DPP platform offers real-time 
+access to critical information such as 
+maintenance schedules, detailed 
+performance data, and comprehensive 
+sustainability metrics.
+Enhanced Asset Management
+Facility managers gain immediate 
+insights into luminaire status, 
+operational history, and predictive 
+maintenance needs for optimised 
+resource allocation.
+Regulatory Compliance & Future Legislation
+Our DPP system supports readiness for emerging product-
+data and traceability requirements, including future Digital 
+Product Passport expectations where applicable.
+Circular Economy & Carbon Footprint 
+Transparency
+The DPP platform provides unparalleled transparency in 
+circular economy practices and facilitates accurate carbon 
+footprint tracking for robust environmental reporting.
+
+Embodied Carbon Assessment: Remanufactured vs 
+New Equivalent
+Comprehensive environmental impact analysis utilising CIBSE TM65 methodology demonstrates significant carbon reduction 
+achievements through strategic remanufacturing approaches. This assessment provides quantifiable evidence supporting sustainable 
+procurement decisions in large-scale facility upgrades.
+Component Type
+Remanufactured 
+kgCO₂e/unit
+New Equivalent 
+kgCO₂e/unit
+Carbon Savings 
+kgCO₂e/unit
+Quantity
+Standard Panel
+36.8
+107.2
+70.4
+1,771
+Emergency Panel
+52.1
+122.5
+70.4
+345
+124,700 kg CO₂e 
+(124.7 tCO₂e)
+Total savings from standard panels
+24,300 kg CO₂e 
+(24.3 tCO₂e)
+Total savings from emergency panels
+149,000 kg CO₂e 
+(149 tCO₂e)
+Project total embodied carbon savings
+Assessment Methodology:  The 
+comparison is between the 
+remanufactured Thorn IndiQuattro 
+solution and the defined new-
+equivalent luminaire baseline. 
+Assessment boundaries include 
+luminaire housing refurbishment, 
+replacement LED modules, drivers, 
+controls, packaging, and transport. 
+Calculations were completed using the 
+CIBSE TM65.2 methodology with 
+stated assumptions and default 
+uncertainty factors where primary 
+data was unavailable.
+
+Operational Carbon Impact Assessment
+Operational carbon reduction has been estimated using a static electricity emissions factor of 0.212 kgCO₂e/kWh. Annual energy 
+reduction is 202,538 kWh, producing an estimated 42.9 tCO₂e reduction per year and 300.6 tCO₂e over the seven-year assessment 
+period. This figure excludes embodied carbon and does not model future grid decarbonisation.
+300,000 kg CO₂e (300 tCO₂e)
+Avoiding this level of CO₂e represents a major reduction in environmental impact, creating a significant sustainability win.
+Carbon Payback
+The remanufactured lighting solution achieves rapid carbon payback due to significantly lower upfront embodied carbon compared to full 
+replacement.
+Methodology note: Carbon payback is calculated by dividing estimated embodied carbon by annual operational carbon savings versus the previous fluorescent installation. 
+Equivalent operational performance is assumed for both remanufactured and new-equivalent replacement scenarios; therefore, differences in payback reflect embodied 
+carbon only.
+Remanufactured Luminaires
+Embodied carbon: 83.1 tCO₂e
+Operational carbon saving: 42.9 tCO₂e/year
+→ Carbon payback: ~1.9 years
+New-Equivalent Replacement (Baseline)
+Embodied carbon: 232.1 tCO₂e
+Operational carbon saving: 42.9 tCO₂e/year
+→ Carbon payback: ~5.4 years
+Remanufacturing delivers approximately 65% faster carbon payback, significantly reducing whole-life carbon impact compared to 
+installing new luminaires.
+1.9 years
+Remanufactured
+Carbon payback period
+5.4 years
+New Replacement
+Carbon payback period
+Environmental Impact Context
+Beyond the immediate carbon savings, the remanufacturing strategy establishes a circular-economy model within the facilities 
+management sector, reducing reliance on virgin material extraction and energy-intensive manufacturing processes. This methodology 
+aligns with the organisation's wider sustainability commitments and offers a replicable framework for similar facilities across the energy 
+industry.
+Long-term Implications: These carbon savings represent only the direct benefits of material conservation. Additional environmental 
+advantages include reduced transportation requirements, lower packaging waste, and avoidance of end-of-life disposal for existing fixture 
+housings.
+Carbon factor: 0.212 kgCO₂e/kWh, based on Greenhouse gas reporting: conversion factors 2025 (Department for Energy Security and Net Zero, June 2025). Static factor 
+applied; excludes future grid decarbonisation.
+For illustrative context only, the embodied and operational carbon savings are approximately equivalent to the annual emissions of ~100 and ~200 average UK passenger 
+vehicles respectively, based on DfT fleet-average emissions (129.4 gCO₂/km), average annual mileage (7,100 miles/year), and an implied emission of ~1.48 tCO₂e per vehicle 
+per year.
+Source: Department for Transport fleet emissions data (2024) and UK Government/NimbleFins analysis of average mileage (2024–2026).
+
+Lux Readings
+Indicative 
+Illuminance 
+Improvements
+Our lighting upgrade delivered 
+substantial increases in illumination 
+levels across the site, with average lux 
+improvements of 87%, 50%, 68%, and 
+68% across the measured areas.
+These enhanced light levels create a 
+safer, more comfortable, and more 
+productive working environment, 
+improving visibility and reducing the risk 
+of accidents. 
+Achieving these results while 
+simultaneously lowering energy 
+consumption demonstrates the 
+effectiveness and efficiency of the new 
+lighting system.
+Representative spot illuminance readings were taken before and after installation to provide an indicative comparison of lighting 
+conditions. These readings suggest that illuminance levels generally increased across the measured areas, particularly where baseline 
+lighting levels were lower. 
+The upgraded lighting installation supports improved visibility, visual comfort, and safer task performance. These readings are indicative 
+and were not collected as part of a formal lighting design compliance assessment.
+Indicative Spot Illuminance Readings (Before/After)
+Location
+Initial Lux
+Post-Installation Lux
+Change
+4L/1 – Point 1
+165
+360
++118%
+3L/1 – Point 4
+250
+507
++103%
+3L/3 – Point 1
+230
+393
++71%
+3L/2 – Point 1
+315
+312
+-1%
+3L/3 – Point 4
+525
+429
+-18%
+Spot illuminance measurements were taken at representative locations before and after installation using a calibrated lux meter. Values 
+shown are initial measured illuminance levels. Detailed measurement records are available on request.
+
+Financial Analysis & Return on Investment
+The financial case for remanufacturing demonstrates exceptional return on investment through substantial energy savings, reduced 
+operational costs, and extended asset lifecycles. This comprehensive 7-year analysis provides transparent modelling for facilities 
+managers evaluating similar upgrade strategies.
+Project Assumptions
+Business Case Length
+7 years standard evaluation period
+Electricity Cost
+£0.224 per kWh baseline rate
+Annual Maintenance
+£4,995 projected annual cost
+Energy Cost Inflation
+15.3% year-on-year increase
+Labour Cost Inflation
+5.0% year-on-year increase
+Daily Operating Hours
+11 hours average daily operation
+Installation Summary
+Metric
+Existing
+Remanufactured
+Total Wattage
+134,688W
+75,484W
+kWh/Annum
+460,768
+258,230
+Energy Savings
+—
+44%
+Capital 
+Expenditure
+—
+£312,047
+Installation + 
+Disposal
+—
+£27,049
+Energy Savings Impact: This 44% reduction was achieved by replacing fluorescent fittings with high-efficiency LED across all 
+2,116 panels — eliminating the inherent inefficiency of fluorescent technology at source. The resulting 59,204W  connected 
+load reduction delivers substantial operational cost reductions over the 7-year business case period, whilst significantly 
+reducing the facility's carbon footprint.
+
+ROI: Initial Projections & Actual Results
+Initial projections were based on theoretical modeling. As operational data became available, including a reduction of 9 fittings from the 
+initial assessment, we refined these figures to reflect actual usage patterns and performance requirements—delivering a more accurate 
+and conservative business case. 
+All performance data was captured on-site by EGG Lighting electricians using calibrated clamp meters, recording actual energy 
+consumption before and after installation. This direct measurement methodology — rather than theoretical modelling — is what gives the 
+figures in this report their accuracy and credibility.
+Luminaire Installation Summary​
+Before Upgrade​
+Initial Projection​
+Actual​ Result
+Quantity of Lights​
+2,125​
+2,125​
+2,116​
+Total Wattage​
+134,668
+57,203​
+75,484​
+Savings on Energy Consumption​
+​
+58%​
+44%​
+ 
+Total Savings Over 7 Years​
+Actual​ Result
+Energy Savings​
+£505,851
+Maintenance Savings​
+£40,668
+Total Investment (LED Supply & Fit)​
+£339,096
+Net Benefit
+£207,423
+Why actual results differ from initial projections:
+Our data-driven approach delivered more accurate outcomes than theoretical modeling:
+Actual operating patterns: Initial projections assumed 11 hours daily operation across 365 days. Real-world monitoring 
+revealed reduced weekend occupancy, yielding an effective 311-day operational year—a more precise reflection of the 
+actual facility usage.
+1.
+Performance optimisation: Higher-specification LEDs were selected (35.2W standard, 38.1W emergency vs. initially 
+projected 26W and 29.5W) to deliver brighter quality, as evidenced by lux readings showing 50-87% light level 
+improvements across measured areas.
+2.
+Result: More realistic energy modeling combined with enhanced workplace lighting quality, while still achieving substantial 
+44% energy reduction and 5-year ROI. The revised savings of £207,423 represent a more conservative and accurate forecast 
+based on verified operational data rather than theoretical assumptions.
+
+Lessons Learned & Best Practices
+The successful implementation of the remanufactured lighting solution at this Aberdeen facility provides invaluable insights for future 
+projects. Reflecting on project management, technical achievements, stakeholder collaboration, and implementation strategies helps us 
+refine our approach and maximise outcomes for similar large-scale upgrades.
+Project Management Agility
+Effective project management hinged on 
+a flexible framework that allowed for 
+iterative adjustments. Initial detailed 
+planning, coupled with continuous 
+monitoring and adaptive scheduling, was 
+crucial. This approach minimised 
+disruptions and allowed for rapid 
+response to unforeseen site-specific 
+conditions without compromising 
+deadlines or budget constraints. Clear 
+communication channels were 
+established early, ensuring all team 
+members and subcontractors were 
+aligned with project goals and timelines.
+Overcoming Technical 
+Integration
+Integrating advanced LED technology 
+into existing luminaire housings 
+presented unique challenges. Success 
+was achieved through rigorous pre-
+project technical assessments and 
+prototyping, ensuring compatibility and 
+optimal performance. Close 
+collaboration with our engineering team 
+and suppliers facilitated custom 
+solutions for driver integration and 
+optical configurations, proving that 
+remanufacturing can surpass new 
+equipment standards with the right 
+technical expertise and innovation.
+Proactive Stakeholder 
+Engagement
+Engaging diverse stakeholders from the 
+energy provider's facilities management, 
+health & safety, and sustainability teams 
+was paramount. Regular, transparent 
+communication, including progress 
+reports and demonstration sessions, 
+built trust and managed expectations 
+effectively. Addressing concerns early 
+and involving key decision-makers in 
+critical technical and design choices 
+ensured broad acceptance and support 
+throughout the project lifecycle, from 
+planning to post-installation review.
+Implementation Standards
+Efficient Execution
+The implementation phase benefited from a modular deployment 
+strategy, minimising operational downtime. Pre-assembled kits 
+and a highly skilled installation team ensured rapid fitment and 
+reduced on-site labour hours. 
+Strict quality control protocols at each stage of the 
+remanufacturing and installation process guaranteed consistency 
+and adherence to performance specifications, leading to a smooth 
+and efficient rollout across all targeted areas.
+Recommendations for Replication
+For future projects, we recommend an even greater emphasis on 
+upfront data analysis of existing infrastructure to refine 
+predictive modelling for energy savings and carbon reduction. 
+Establishing dedicated cross-functional teams with clear roles and 
+responsibilities from project inception significantly enhances 
+coordination. 
+Finally, leveraging digital twins or BIM for comprehensive project 
+visualisation and asset management will further optimise long-
+term facility operation and maintenance.
+Early engagement with all stakeholders ensures alignment and reduces project risks
+Rigorous pre-project technical assessment and prototyping validates feasibility
+Modular deployment strategies minimise operational disruption during installation
+Comprehensive quality control at every stage guarantees consistent performance
+Digital tools and BIM integration enhance long-term asset management capabilities
+
+A Sustainable Future: Project Learnings & Forward 
+Path
+The successful remanufactured lighting project serves as a strong demonstration of the viability, environmental responsibility, and 
+economic benefits of circular economy principles within the commercial lighting sector. This concluding segment synthesises the project's 
+achievements, highlights its broader implications, and outlines actionable recommendations for fostering a more sustainable built 
+environment.
+Strategic Recommendations for Industry Leaders
+01
+Prioritise Life Cycle Assessment 
+(LCA)
+Early in project planning to identify optimal 
+remanufacturing candidates and quantify 
+environmental benefits
+02
+Engage with Remanufacturing 
+Specialists
+Verify their adherence to relevant industry 
+standards (e.g., BS8887-221, BS EN 60598, 
+TM66)
+03
+Develop Internal Policies
+Create procurement guidelines that favour 
+circular products and services to drive 
+market demand
+04
+Educate Stakeholders
+Build awareness of the long-term economic, environmental, and 
+performance benefits of remanufactured solutions
+05
+Integrate Digital Management
+Connect remanufactured assets into digital building management 
+systems for enhanced monitoring and predictive maintenance
+By embracing these recommendations and lessons learned, architects, engineers, and facility managers can confidently lead the transition 
+towards a more resilient, resource-efficient, and sustainable built environment. This Aberdeen project provides a replicable model for 
+success across diverse facilities and sectors.
+Proven Success & Performance
+The project demonstrated that 
+remanufactured lighting products can meet 
+and often exceed the performance, safety, 
+and aesthetic standards of new luminaires.
+Broader Industry Implications
+This project signals a transformative shift for 
+the lighting industry, indicating that high-
+performance, compliant, and sustainable 
+solutions are not mutually exclusive.
+Scalability & Replication Potential
+The methodology, technical solutions, and 
+regulatory compliance achieved in the 
+project are highly scalable and adaptable to 
+a wide range of commercial facilities.
+Future Opportunities
+Remanufacturing presents vast untapped 
+potential, expanding into other building 
+systems like HVAC components, integrated 
+smart building technologies, and even 
+furniture.

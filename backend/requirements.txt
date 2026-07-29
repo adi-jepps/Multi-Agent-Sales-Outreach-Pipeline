@@ -1,0 +1,10 @@
+crewai
+crewai-tools
+pandas
+python-dotenv
+google-search-results
+fastapi
+uvicorn[standard]
+python-docx
+pymupdf
+python-multipart

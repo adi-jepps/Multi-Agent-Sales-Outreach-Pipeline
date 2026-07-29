@@ -1,0 +1,20 @@
+personalize_email_task:
+  description: >
+    Write a personalized cold outreach email using the campaign agenda and this
+    contact/company's research below.
+
+    Campaign agenda:
+    {campaign_agenda}
+
+    Contact: {contact_name}, {contact_title} at {company_name}
+    Values alignment research: {values_alignment}
+    Recent relevant news: {recent_relevant_news}
+    Facility notes: {facility_notes}
+
+    Reference at least one specific, concrete detail from the research above (skip
+    any point that says "none found" rather than inventing something). Keep the email
+    under 150 words, with exactly one clear call to action.
+  expected_output: >
+    A structured email draft with two fields: subject (under 60 characters) and body
+    (plain text, under 150 words, personalized, ending in one call to action).
+  agent: email_copywriter

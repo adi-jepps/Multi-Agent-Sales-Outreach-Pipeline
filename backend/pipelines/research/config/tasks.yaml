@@ -1,0 +1,24 @@
+research_company_task:
+  description: >
+    Research the company below using its website and LinkedIn page, plus a general
+    web search if the website/LinkedIn don't have enough detail.
+
+    Company: {company_name}
+    Website: {website}
+    Company LinkedIn: {linkedin}
+
+    Find:
+    1. Any stated sustainability/ESG commitments or carbon-reduction goals that would
+       make this company receptive to a sustainable lighting remanufacturing pitch.
+    2. Any recent (last 6-12 months) news, press release, or LinkedIn post relevant to
+       sustainability, office/facility changes, or ESG reporting.
+    3. Any mention of office size, facility type, or estate/property details.
+
+    If nothing concrete is found for a given point, say "none found" rather than
+    guessing or paraphrasing generic corporate language as if it were a specific
+    commitment.
+  expected_output: >
+    A structured research summary with three fields: values_alignment,
+    recent_relevant_news, and facility_notes. Each should be 1-2 sentences, specific,
+    and sourced from what was actually found — not inferred.
+  agent: company_researcher

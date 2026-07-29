@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+!backend/.env.example
+
+# Node / frontend build (frontend/ has its own .gitignore for the rest)
+node_modules/
+dist/
+dist-ssr/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Logs
+*.log
