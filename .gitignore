@@ -6,12 +6,16 @@ __pycache__/
 .venv/
 venv/
 env/
+.pytest_cache/
 
 # Environment variables
 .env
 .env.*
 !.env.example
 !backend/.env.example
+
+# Outlook draft-creation token cache - holds a live refresh token, treat as a credential
+backend/.msal_token_cache.bin
 
 # Node / frontend build (frontend/ has its own .gitignore for the rest)
 node_modules/
