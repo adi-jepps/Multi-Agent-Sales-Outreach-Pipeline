@@ -1,4 +1,4 @@
-# EGG — Sales Prospecting Platform
+# Multi Agent Sales Prospecting Platform
 
 An internal tool that automates the two most time-consuming steps of B2B outbound sales — company research and personalized outreach email drafting — using multi-agent LLM pipelines (CrewAI), with a human review/approval gate before anything leaves the building. **Nothing in this system sends email.** Approving a draft marks it `approved`; from there, an optional, explicit "Create draft in Outlook" action can push it into a real Outlook mailbox, addressed to the real contact, as an actual (unsent) draft via Microsoft Graph — the app only ever holds `Mail.ReadWrite` access and never calls Graph's send endpoint, so it is structurally incapable of sending, not just well-behaved by convention. A human still has to open Outlook, review it, and hit Send themselves.
 
