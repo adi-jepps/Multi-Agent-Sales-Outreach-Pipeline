@@ -1,4 +1,4 @@
-contact_key,subject,body,status,updated_at
+contact_key,subject,body,status,updated_at,outlook_draft_id,outlook_pushed_at
 6acb3ad61e87842fcfc9ac12418f098200f4a9b5,A quick idea for NHS Highland's facilities team,"Hi David,
 
 I saw in NHS Highland’s 2024-25 Climate Emergency and Sustainability Report that you are focused on measurable carbon reduction across all sites, alongside large-scale infrastructure projects like the Belford Hospital replacement.
@@ -9,7 +9,7 @@ Would you be open to a short call to see if remanufactured lighting could help N
 
 Best regards,
 
-[Your Name]",approved,2026-07-24T14:08:32.751458+00:00
+[Your Name]",approved,2026-07-24T14:08:32.751458+00:00,,
 0a2cbbd147daf4d727b0639b43ddae95443dc947,Supporting East Dunbartonshire’s Net Zero and Circular Goals,"Hi Allan,
 
 I noticed the Council’s Climate Action Plan targets net zero by 2036 and champions circular economy initiatives—your recent reopening of Campsie Memorial Hall and its sustainable retrofit are impressive markers of this direction.
@@ -19,12 +19,12 @@ With similar climate priorities, I thought you might be interested in a case stu
 Would you be open to a quick call to see how lighting remanufacturing could align with your current facility plans or support objectives in the next phase of your climate strategy?
 
 Best regards,
-[Your Name]",pending,2026-07-24T14:18:34.939859+00:00
+[Your Name]",pending,2026-07-24T14:18:34.939859+00:00,,
 bc26e9f3d44e049774e45851ae754cae92bc1887,Lighting Strategies That Support Carbon-Negative Goals,"David, I noticed the National Trust for Scotland has pledged to become carbon negative and is investing heavily in both place and sustainability—including the introduction of new technology for greener gardens and projects like the Glencoe Habitat Recovery. 
 
 We recently completed a large-scale lighting remanufacturing project for a multi-national energy provider in Aberdeen, achieving a 44% energy reduction, substantial avoided carbon, and modern controls, all while reusing existing luminaires. The result was significant carbon payback within two years and minimal disruption to sensitive operations—an approach that might align with your estate’s environmental priorities.
 
-Would you be open to a short call to explore how remanufactured lighting could support Mar Lodge Estate’s sustainability goals?",pending,2026-07-24T14:18:38.450652+00:00
+Would you be open to a short call to explore how remanufactured lighting could support Mar Lodge Estate’s sustainability goals?",pending,2026-07-24T14:18:38.450652+00:00,,
 75b9f448d32f89b6d5109a1e61610e71f90f3396,Lighting Remanufacturing & Strathclyde’s Net-Zero Goals,"Hi Damien,
 
 I noticed the University of Strathclyde is embedding circular economy and reuse principles into daily operations—like refurbishing existing furniture as part of your 2040 Net-Zero plan. This mirrors a large-scale lighting remanufacturing project we recently completed with a multinational’s Aberdeen headquarters. By upgrading 2,116 fittings in-place, we achieved 44% energy savings and avoided over 149 tCO₂e in embodied carbon, all while maintaining full building operations.
@@ -33,7 +33,7 @@ If you’re exploring practical ways to extend circularity to campus lighting—
 
 Best regards,
 
-[Your Name]",pending,2026-07-24T14:18:41.982434+00:00
+[Your Name]",pending,2026-07-24T14:18:41.982434+00:00,,
 0c8855f1696eded41f14d8f2afe6015faf403b59,Lighting Remanufacturing Insights for NHS Borders Net Zero Goals,"Hi Gavin,
 
 I read NHS Borders’ 2024 Climate Emergency and Sustainability Report and saw you’re targeting net zero by 2040 across all 39 sites, including Borders General Hospital and your Community Hospitals. We recently helped a major headquarters achieve significant carbon and cost savings—remapping over 2,100 legacy fluorescent panels into low-carbon, smart-controlled LED assets, with minimal operational disruption and compliance to BS8887-221. Many NHS estates face similar challenges in modernising large, live healthcare sites—so I thought this proven remanufacture route (rapid 1.9-year carbon payback, streamlined emergency lighting compliance) might be of interest as you plan future upgrades.
@@ -42,7 +42,7 @@ Would you be open to a 20-minute call to share details? I’d be happy to talk t
 
 Best regards,
 
-",pending,2026-07-24T14:18:46.131017+00:00
+",pending,2026-07-24T14:18:46.131017+00:00,,
 e5bf81cfb15d1498eb5e69bd6d8275a3c6030554,Sustainable lighting ideas for CBRE’s modern offices,"Hi Jamie,
 
 I noticed CBRE UK recently moved its City office to Paternoster House, a space chosen for its modern sustainability features and strong green credentials. Given CBRE’s 2040 net zero target and the impressive 43% decrease in Scope 1 & 2 emissions, I thought you might be interested in how a multi-national energy provider cut lighting energy use by 44% (and avoided 149 tCO₂e embodied carbon) by remanufacturing, not replacing, 2,116 panel fittings—delivering workplace benefits and verified savings.
@@ -50,14 +50,14 @@ I noticed CBRE UK recently moved its City office to Paternoster House, a space c
 Would you be open to reviewing a short case study on how this approach might be replicated for CBRE or your occupier clients?
 
 Best,
-[Your Name]",pending,2026-07-24T14:18:50.082590+00:00
+[Your Name]",pending,2026-07-24T14:18:50.082590+00:00,,
 717eed855ec767494c1de3d9a53165969e4acc80,Lighting upgrade insight for Ayrshire College sustainability,"Hi Barry,
 
 I noticed Ayrshire College recently hosted an event on building a sustainable future, and your commitment to reducing the college’s carbon footprint stands out—especially your 23% reduction since 2014-15.
 
 I thought you might find it relevant that a multi-national energy provider’s Aberdeen HQ achieved a further 44% reduction on lighting energy use and avoided 149 tCO₂e embodied carbon using a remanufacturing upgrade (not full replacement)—all while improving light quality and automation for compliance.
 
-Would you be open to a brief chat to discuss practical lessons or data from this project that might support your ongoing sustainability work at Ayrshire? Let me know if you have 20 minutes in the next week.",pending,2026-07-24T14:18:53.719585+00:00
+Would you be open to a brief chat to discuss practical lessons or data from this project that might support your ongoing sustainability work at Ayrshire? Let me know if you have 20 minutes in the next week.",pending,2026-07-24T14:18:53.719585+00:00,,
 3eb12cafbc7e2b7d7ab62d27eadab10d56e4f4e1,Supporting NHS Borders’ 2040 Net-Zero Goals: Lighting Case Study,"Hello Fiona,
 
 I noticed NHS Borders’ recent Annual Climate Emergency and Sustainability Report, especially your target to reach net-zero by 2040 across your 39-site IM&T estate. I thought you might be interested in a detailed case study from a multi-national energy provider whose Aberdeen HQ upgraded 2,116 fluorescent panels using a remanufacturing approach. This project achieved a 44% energy reduction and avoided 449 tCO₂e, all while maintaining full operational continuity and meeting demanding compliance standards.
@@ -65,7 +65,7 @@ I noticed NHS Borders’ recent Annual Climate Emergency and Sustainability Repo
 Would you be open to a short call to discuss how these results might map onto NHS Borders’ estate?
 
 Best regards,
-[Your Name]",pending,2026-07-24T14:18:57.591914+00:00
+[Your Name]",pending,2026-07-24T14:18:57.591914+00:00,,
 b34b6e2f9dfd0fe6c1ba846b5c2562caf53c58e8,Supporting NHS Borders’ Net-Zero Lighting Goals,"Hi Gordon,
 
 I read NHS Borders’ recent Climate Emergency and Sustainability Report and saw your commitment to becoming net-zero by 2040 across 39 sites. In light of this, I wanted to share a detailed case study of an Aberdeen headquarters that transitioned 2,116 fluorescent panels to remanufactured LED, achieving a 44% energy reduction, rapid ROI, and major carbon savings—all while maintaining live-site operations and meeting BS8887-221 standards.
@@ -74,12 +74,12 @@ I thought this real-world model might be relevant given your IM&T estate’s sca
 
 Best regards,
 
-[Your Name]",pending,2026-07-24T14:19:01.212744+00:00
+[Your Name]",pending,2026-07-24T14:19:01.212744+00:00,,
 2603a33a81ecedc59f4f64e95030a479d6eb1877,Lighting upgrades to accelerate CBRE’s net zero efforts,"Hi Claire,
 
 I noticed CBRE UK’s achievement of a 43% cut in Scope 1 & 2 emissions and the recent move to Paternoster House—both great examples of your carbon reduction in practice. I thought you might find it relevant that our remanufacturing-led lighting upgrade for a multinational HQ delivered a 44% energy reduction and 149 tCO₂e in embodied carbon savings, while supporting compliance and avoiding disruption in 24/7 operations. The same approach could support CBRE’s ambitious net zero pathways and further lower operational impacts across managed sites.
 
-Would you be open to a short call to explore how remanufactured lighting might fit with your ongoing efficiency and sustainability programs?",pending,2026-07-24T14:19:04.904503+00:00
+Would you be open to a short call to explore how remanufactured lighting might fit with your ongoing efficiency and sustainability programs?",pending,2026-07-24T14:19:04.904503+00:00,,
 f64f7ec80ddba33dc1c440387d65ae13ba717021,Supporting Circular Economy Lighting at Strathclyde,"Hi Jessica,
 
 I noticed Strathclyde’s Net-Zero plan prioritises the reuse and refurbishment of assets, such as your approach to furniture across campus. We recently delivered a comprehensive remanufactured lighting upgrade for a 2,000+ employee site, helping the client reduce embodied carbon by 149 tCO₂e and operational carbon by 300 tCO₂e over seven years—all while retaining the original luminaires and avoiding major disruption. 
@@ -89,7 +89,7 @@ Given your Estates team’s knowledge of floorplans and occupancy by area, a sim
 Would you be open to a short call to discuss how this could apply at Strathclyde?
 
 Best regards,
-",pending,2026-07-24T14:19:10.347172+00:00
+",pending,2026-07-24T14:19:10.347172+00:00,,
 30fad2edd1b772b69d0372ea9ff781fbba41ea4f,Reducing Energy and Carbon Across NTS Lighting Estates,"Hi Calum,
 
 I saw that the National Trust for Scotland’s new strategy pledges to achieve ‘carbon negative’ status, with recent efforts—like your sustainability improvements at Glencoe and commitment to greener operations—illustrating real progress.
@@ -99,12 +99,12 @@ We recently worked with a multi-national provider’s Aberdeen HQ to upgrade 2,1
 Would you be open to a quick discussion on how lighting remanufacturing could fit with NTS’s carbon strategy and estate management priorities?
 
 Best regards,
-[Your Name]",pending,2026-07-24T14:19:13.561109+00:00
+[Your Name]",pending,2026-07-24T14:19:13.561109+00:00,,
 f05ea0357600772ebd777475131a7f8e0df928dd,Lighting Remanufacturing for Strathclyde’s Circular Goals,"Hello Mara,
 
 I noticed the University of Strathclyde’s Net Zero Carbon Plan highlights your move toward circular economy principles—like refurbishing furniture and embedding reuse in daily operations. At EGG Lighting, we’ve just completed a remanufactured LED upgrade for a multi-storey building in Aberdeen, delivering a 44% energy reduction and significant embodied carbon savings, all while retaining original fittings. Our methodology aligns with BS8887-221 remanufacturing compliance and supports reporting for your Net Zero and green-building targets.
 
-Would you be open to a short conversation about how lighting remanufacturing could help Strathclyde further your decarbonisation goals while supporting your facilities and compliance needs?",pending,2026-07-24T14:19:17.720990+00:00
+Would you be open to a short conversation about how lighting remanufacturing could help Strathclyde further your decarbonisation goals while supporting your facilities and compliance needs?",approved,2026-08-18T14:39:54.026140+00:00,,
 71ffadbb90e4463e9bc984a420fe2d49588214b7,CBRE’s Net Zero Ambitions & Circular Lighting ROI,"Hi Jana,
 
 Congrats to CBRE UK on your recent move to Paternoster House and for your progress towards a 43% reduction in Scope 1 & 2 emissions. 
@@ -114,7 +114,7 @@ We recently supported a large multi-national energy provider in Aberdeen to rema
 Would you be open to a 15-minute call to share how the same approach could help bring Haymarket Square closer to CBRE’s net zero targets, without major disruption or new fixture waste?
 
 Best regards,
-[Your Name]",pending,2026-07-24T14:19:20.893220+00:00
+[Your Name]",pending,2026-07-24T14:19:20.893220+00:00,,
 cdf9315029bf2ddb5e08b2bdc2c782f2a0c690b0,Lighting Upgrade for Circular Economy Goals,"Hi Robert,
 
 I saw the Council just celebrated the reopening of Campsie Memorial Hall after a significant renovation using funding earmarked for renewables—great to see East Dunbartonshire’s Climate Action Plan in practice. I wanted to share a case study where a large energy provider’s HQ upgraded over 2,100 fluorescent panels to remanufactured LED, cutting energy use by 44% and avoiding 149 tCO₂e in embodied carbon, all while meeting BS8887-221 and delivering a five-year ROI.
@@ -125,7 +125,7 @@ Would you be open to a 20-minute call to discuss how similar approaches could be
 
 Thanks,
 
-[Your Name]",pending,2026-07-24T14:19:24.661500+00:00
+[Your Name]",pending,2026-07-24T14:19:24.661500+00:00,,
 7e3fb2dca3af2232b18a71acc55c3cbc34ba9af7,Exploring Circular Lighting for Strathclyde’s Facilities,"Hi Graeme,
 
 I saw the University of Strathclyde’s focus on embedding circular economy and reuse—such as refurbishing campus furniture—to support your 2040 Net-Zero goals. Many universities now extend these principles to infrastructure upgrades. I thought you might be interested in a case study with a multi-national energy provider that, instead of replacing 2,000+ luminaires, upgraded them through remanufacturing. This cut energy use by 44%, improved light quality and compliance, and avoided significant embodied carbon—plus offered a clear model for managing upgrades in large, busy facilities.
@@ -134,7 +134,7 @@ Would you be open to a short call to discuss how a similar approach could suppor
 
 Best regards,
 
-[Your Name]",pending,2026-07-24T14:19:29.043704+00:00
+[Your Name]",pending,2026-07-24T14:19:29.043704+00:00,,
 d992e475607b5aa047bca6b08c3fc9e47ee91e6d,Exploring Lighting Upgrades Aligned with Net-Zero Targets,"Hello Roberta,
 
 I noticed Renfrewshire Council recently celebrated Net Zero Week and shared an impressive 16% reduction in total emissions—an important milestone. As you continue with initiatives like the £100m Housing Regeneration and Renewal Programme, have you explored lighting remanufacturing as a way to reduce operational and embodied carbon across your facilities? Our latest project with a large multi-site provider replaced over 2,000 fittings, cutting operational lighting emissions by 44% and unlocking substantial financial returns—without full system replacement and with seamless compliance tracking.
@@ -143,4 +143,4 @@ If you’re interested, I can share details and lessons learned on scalable ligh
 
 Best regards,
 
-[Your Name]",pending,2026-07-24T14:24:10.810041+00:00
+[Your Name]",pending,2026-07-24T14:24:10.810041+00:00,,

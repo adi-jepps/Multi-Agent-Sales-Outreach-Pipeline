@@ -11,6 +11,7 @@ Run from backend/:
     uvicorn server:app --reload --port 8000
 """
 
+import os
 import threading
 from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
@@ -22,6 +23,7 @@ from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
+import outlook_client
 from dashboard_stats import get_dashboard_stats
 from data_loader import compute_company_key, compute_contact_key, load_contacts, load_leads_with_research_status, load_text
 from paths import CAMPAIGN_AGENDA_PATH, CONTACTS_INPUT_PATH, RESEARCH_OUTPUT_PATH
@@ -32,10 +34,17 @@ from tools.doc_extract import extract_text
 
 load_dotenv()
 
+# Defaults cover the frontend's local dev origin (Vite defaults to 8080; 3000
+# is included too since that's what earlier docs assumed). Override via
+# FRONTEND_ORIGINS in backend/.env (comma-separated) for any other setup,
+# e.g. accessing the frontend from another device's IP on the LAN.
+_default_origins = "http://localhost:8080,http://127.0.0.1:8080,http://localhost:3000,http://127.0.0.1:3000"
+ALLOWED_ORIGINS = [origin.strip() for origin in os.getenv("FRONTEND_ORIGINS", _default_origins).split(",") if origin.strip()]
+
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=ALLOWED_ORIGINS,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -355,6 +364,7 @@ def _draft_row_to_dict(row: pd.Series) -> dict:
         "body": row["body"],
         "status": row["status"],
         "updated_at": row["updated_at"],
+        "outlook_draft_id": _clean(row.get("outlook_draft_id")),
     }
 
 
@@ -399,6 +409,39 @@ def patch_email(contact_key: str, body: UpdateEmailRequest):
     contacts_df = load_leads_with_research_status(CONTACTS_INPUT_PATH, RESEARCH_OUTPUT_PATH)
     contact_matches = contacts_df[contacts_df["contact_key"] == contact_key]
     contact_row = contact_matches.iloc[0] if not contact_matches.empty else pd.Series(dtype=object)
+
+    merged = {**contact_row.to_dict(), **updated}
+    return _draft_row_to_dict(pd.Series(merged))
+
+
+@app.post("/api/emails/{contact_key}/push-to-outlook")
+def post_push_to_outlook(contact_key: str):
+    drafts_df = drafts_store.read_drafts()
+    matches = drafts_df[drafts_df["contact_key"] == contact_key]
+    if matches.empty:
+        raise HTTPException(status_code=404, detail=f"No email draft for contact {contact_key}")
+
+    draft = matches.iloc[0]
+    if draft["status"] != "approved":
+        raise HTTPException(status_code=400, detail="Only approved drafts can be pushed to Outlook")
+
+    contacts_df = load_leads_with_research_status(CONTACTS_INPUT_PATH, RESEARCH_OUTPUT_PATH)
+    contact_matches = contacts_df[contacts_df["contact_key"] == contact_key]
+    contact_row = contact_matches.iloc[0] if not contact_matches.empty else pd.Series(dtype=object)
+
+    recipient = _clean(contact_row.get("Email"))
+    if not recipient:
+        raise HTTPException(status_code=400, detail="This contact has no email address on file")
+
+    try:
+        result = outlook_client.create_draft(draft["subject"], draft["body"], to_address=recipient)
+    except RuntimeError as e:
+        message = str(e)
+        if "isn't authorized" in message or "isn't configured" in message or "expired" in message:
+            raise HTTPException(status_code=503, detail=message)
+        raise HTTPException(status_code=502, detail=f"Outlook API error: {message}")
+
+    updated = drafts_store.record_outlook_push(contact_key, result["id"])
 
     merged = {**contact_row.to_dict(), **updated}
     return _draft_row_to_dict(pd.Series(merged))

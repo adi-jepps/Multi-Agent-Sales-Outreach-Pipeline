@@ -8,3 +8,4 @@ uvicorn[standard]
 python-docx
 pymupdf
 python-multipart
+msal

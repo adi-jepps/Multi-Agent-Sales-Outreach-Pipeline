@@ -13,7 +13,7 @@ import pandas as pd
 from data_loader import save_csv
 from paths import EMAIL_DRAFTS_PATH
 
-_COLUMNS = ["contact_key", "subject", "body", "status", "updated_at"]
+_COLUMNS = ["contact_key", "subject", "body", "status", "updated_at", "outlook_draft_id", "outlook_pushed_at"]
 _lock = threading.Lock()
 
 
@@ -32,9 +32,18 @@ def now_iso() -> str:
 
 def _read() -> pd.DataFrame:
     try:
-        return pd.read_csv(EMAIL_DRAFTS_PATH)
+        # reindex so a CSV written before outlook_draft_id/outlook_pushed_at
+        # existed still loads cleanly - those columns just backfill as NaN.
+        df = pd.read_csv(EMAIL_DRAFTS_PATH).reindex(columns=_COLUMNS)
     except FileNotFoundError:
-        return pd.DataFrame(columns=_COLUMNS)
+        df = pd.DataFrame(columns=_COLUMNS)
+
+    # An all-NaN column defaults to float64, which rejects string assignment
+    # later (record_outlook_push) - force these two to a string-safe dtype
+    # regardless of which branch above produced the frame.
+    df["outlook_draft_id"] = df["outlook_draft_id"].astype(object)
+    df["outlook_pushed_at"] = df["outlook_pushed_at"].astype(object)
+    return df
 
 
 def read_drafts() -> pd.DataFrame:
@@ -77,6 +86,25 @@ def update_draft(contact_key: str, patch: dict, expected_updated_at: str) -> dic
             if value is not None:
                 df.loc[mask, field] = value
         df.loc[mask, "updated_at"] = now_iso()
+
+        save_csv(df, EMAIL_DRAFTS_PATH)
+        return df.loc[mask].iloc[0].to_dict()
+
+
+def record_outlook_push(contact_key: str, outlook_draft_id: str) -> dict:
+    """
+    Records that a draft was pushed to Outlook. Deliberately doesn't touch
+    updated_at or require optimistic concurrency - this is a system-recorded
+    side effect, not competing with a human edit.
+    """
+    with _lock:
+        df = _read()
+        mask = df["contact_key"] == contact_key
+        if not mask.any():
+            raise DraftNotFound(contact_key)
+
+        df.loc[mask, "outlook_draft_id"] = outlook_draft_id
+        df.loc[mask, "outlook_pushed_at"] = now_iso()
 
         save_csv(df, EMAIL_DRAFTS_PATH)
         return df.loc[mask].iloc[0].to_dict()
