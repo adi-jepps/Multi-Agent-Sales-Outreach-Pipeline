@@ -67,6 +67,7 @@ export type EmailDraft = {
   body: string;
   status: "pending" | "approved" | "rejected";
   updated_at: string;
+  outlook_draft_id: string | null;
 };
 
 export type CampaignAgendaResponse = {
@@ -195,5 +196,9 @@ export const api = {
     request<EmailDraft>(`/api/emails/${encodeURIComponent(contactKey)}`, {
       method: "PATCH",
       body: JSON.stringify(patch),
+    }),
+  pushToOutlook: (contactKey: string) =>
+    request<EmailDraft>(`/api/emails/${encodeURIComponent(contactKey)}/push-to-outlook`, {
+      method: "POST",
     }),
 };

@@ -4,6 +4,7 @@ import { useState } from "react";
 import { toast } from "sonner";
 
 import { api, type EmailDraft } from "@/lib/api";
+import { CheckCircle2, Send } from "lucide-react";
 import { PageHeader } from "@/components/page-header";
 import {
   Select,
@@ -114,6 +115,17 @@ function EmailCard({ draft }: { draft: EmailDraft }) {
     },
   });
 
+  const pushMutation = useMutation({
+    mutationFn: () => api.pushToOutlook(draft.contact_key),
+    onSuccess: () => {
+      qc.invalidateQueries({ queryKey: ["emails"] });
+      toast.success("Draft created in Outlook");
+    },
+    onError: (err: Error) => {
+      toast.error(err.message || "Failed to create draft in Outlook");
+    },
+  });
+
   return (
     <div className="space-y-3 rounded-md border bg-card p-4">
       <div className="flex flex-wrap items-center justify-between gap-2">
@@ -136,18 +148,44 @@ function EmailCard({ draft }: { draft: EmailDraft }) {
         <Textarea value={body} onChange={(e) => setBody(e.target.value)} className="min-h-40" />
       </div>
 
-      <div className="flex justify-end gap-2">
-        <Button
-          size="sm"
-          variant="outline"
-          disabled={mutation.isPending}
-          onClick={() => mutation.mutate("rejected")}
-        >
-          Reject
-        </Button>
-        <Button size="sm" disabled={mutation.isPending} onClick={() => mutation.mutate("approved")}>
-          Approve
-        </Button>
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <div>
+          {draft.status === "approved" &&
+            (draft.outlook_draft_id ? (
+              <span className="flex items-center gap-1.5 text-xs text-muted-foreground">
+                <CheckCircle2 className="h-3.5 w-3.5 text-emerald-600" />
+                Draft created in Outlook
+              </span>
+            ) : (
+              <Button
+                size="sm"
+                variant="outline"
+                disabled={pushMutation.isPending}
+                onClick={() => pushMutation.mutate()}
+                className="gap-2"
+              >
+                <Send className="h-4 w-4" />
+                {pushMutation.isPending ? "Creating..." : "Create draft in Outlook"}
+              </Button>
+            ))}
+        </div>
+        <div className="flex gap-2">
+          <Button
+            size="sm"
+            variant="outline"
+            disabled={mutation.isPending}
+            onClick={() => mutation.mutate("rejected")}
+          >
+            Reject
+          </Button>
+          <Button
+            size="sm"
+            disabled={mutation.isPending}
+            onClick={() => mutation.mutate("approved")}
+          >
+            Approve
+          </Button>
+        </div>
       </div>
     </div>
   );
